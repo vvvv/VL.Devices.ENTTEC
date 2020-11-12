@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
-    <id>VL.Devices.SpaceMouse</id>
+    <id>VL.Devices.ENTTEC</id>
     <version>0.0.1-alpha</version>
-    <title>VL.Devices.SpaceMouse</title>
-    <authors>3dconnexion, vvvv</authors>
+    <title>VL.Devices.ENTTEC</title>
+    <authors>vvvv</authors>
     <owners>vvvv</owners>
-    <projectUrl>https://github.com/vvvv/VL.Devices.SpaceMouse</projectUrl>
+    <projectUrl>https://github.com/vvvv/VL.Devices.ENTTEC</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <summary>Support for the SpaceMouse by 3dconnexion for VL</summary>
-    <description>Support for the SpaceMouse by 3dconnexion for VL</description>
-    <tags>VL, 3dconnexion</tags>
+    <summary>Support for ENTTEC DMX devices in VL</summary>
+    <description>Support for ENTTEC DMX devices in VL</description>
+    <tags>VL, dmx</tags>
 	<license type="expression">LGPL-3.0-only</license>
 	<icon>icon\nugeticon.png</icon>
   </metadata>
